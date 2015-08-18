@@ -298,13 +298,12 @@ sm {
 }
 
 #efg {
-	#intro {
     background: #2c3e50;
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
 }
-#efg p {
+#efg h5,p {
 	
 	text-align: center;
 	color:white;
