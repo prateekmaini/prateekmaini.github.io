@@ -249,6 +249,10 @@ a:after {
 	text-align: center;
 	color:white;
 }
+#abc .container {
+	padding-right:0px;
+	padding-left:0px;
+}
 
 
 
