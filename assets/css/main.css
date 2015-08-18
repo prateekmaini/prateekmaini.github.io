@@ -245,13 +245,22 @@ a:after {
 }
 
 #abc p {
-	background: #2c3e50;
+	
 	text-align: center;
 	color:white;
 }
 #abc .container {
-	padding-right:0px;
-	padding-left:0px;
+	padding-right:15px;
+	padding-left:15px;
+	margin-right: auto;
+        margin-left: auto;
+}
+
+#abc {
+    background: #2c3e50;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    color: white;
 }
 
 
