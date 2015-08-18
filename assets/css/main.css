@@ -296,3 +296,17 @@ a:after {
 sm {
 	font-size: 12px;
 }
+
+#efg {
+	#intro {
+    background: #2c3e50;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+#efg p {
+	
+	text-align: center;
+	color:white;
+}
+}
