@@ -245,16 +245,9 @@ a:after {
 }
 
 #abc p {
-	
-	text-align: center;
 	color:white;
 }
-#abc .container {
-	padding-right:15px;
-	padding-left:15px;
-	margin-right: auto;
-        margin-left: auto;
-}
+
 
 #abc {
     background: #2c3e50;
@@ -299,13 +292,11 @@ sm {
 
 #efg {
     background: #2c3e50;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     color: white;
 }
 #efg h5,p {
-	
-	text-align: center;
 	color:white;
 }
 }
